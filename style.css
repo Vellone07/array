@@ -1,0 +1,11 @@
+table, th, td, tr {
+    border: 1px solid;
+    text-align: center;
+  }
+  #botao{
+    color: black;
+  }
+  body{
+    background-color: rgb(200, 255, 237);
+    text-align: center;
+  }
